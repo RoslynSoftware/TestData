@@ -1,0 +1,102 @@
+[
+  {
+    "UserName": "john_doe",
+    "Email": "john.doe@example.com",
+    "FirstName": "John",
+    "LastName": "Doe",
+    "Role": "Admin",
+    "Password": "Password123!",
+    "DateOfBirth": "1990-05-15",
+    "Country": "USA"
+  },
+  {
+    "UserName": "jane_smith",
+    "Email": "jane.smith@example.com",
+    "FirstName": "Jane",
+    "LastName": "Smith",
+    "Role": "User",
+    "Password": "SecurePass123!",
+    "DateOfBirth": "1988-11-23",
+    "Country": "UK"
+  },
+  {
+    "UserName": "william_brown",
+    "Email": "william.brown@example.com",
+    "FirstName": "William",
+    "LastName": "Brown",
+    "Role": "Moderator",
+    "Password": "WillBrown#2023",
+    "DateOfBirth": "1995-02-10",
+    "Country": "Canada"
+  },
+  {
+    "UserName": "emily_jones",
+    "Email": "emily.jones@example.com",
+    "FirstName": "Emily",
+    "LastName": "Jones",
+    "Role": "User",
+    "Password": "EmilyJ@123",
+    "DateOfBirth": "1992-07-05",
+    "Country": "Australia"
+  },
+  {
+    "UserName": "michael_davis",
+    "Email": "michael.davis@example.com",
+    "FirstName": "Michael",
+    "LastName": "Davis",
+    "Role": "Admin",
+    "Password": "Mike!Davis99",
+    "DateOfBirth": "1985-09-30",
+    "Country": "USA"
+  },
+  {
+    "UserName": "sophia_garcia",
+    "Email": "sophia.garcia@example.com",
+    "FirstName": "Sophia",
+    "LastName": "Garcia",
+    "Role": "User",
+    "Password": "SophiaGarcia88",
+    "DateOfBirth": "1997-12-14",
+    "Country": "Spain"
+  },
+  {
+    "UserName": "james_miller",
+    "Email": "james.miller@example.com",
+    "FirstName": "James",
+    "LastName": "Miller",
+    "Role": "Moderator",
+    "Password": "JamesM!2021",
+    "DateOfBirth": "1989-04-18",
+    "Country": "Germany"
+  },
+  {
+    "UserName": "isabella_wilson",
+    "Email": "isabella.wilson@example.com",
+    "FirstName": "Isabella",
+    "LastName": "Wilson",
+    "Role": "User",
+    "Password": "BellaW@2000",
+    "DateOfBirth": "2000-03-22",
+    "Country": "Italy"
+  },
+  {
+    "UserName": "daniel_taylor",
+    "Email": "daniel.taylor@example.com",
+    "FirstName": "Daniel",
+    "LastName": "Taylor",
+    "Role": "Admin",
+    "Password": "TaylorD99#",
+    "DateOfBirth": "1987-06-12",
+    "Country": "Australia"
+  },
+  {
+    "UserName": "mia_moore",
+    "Email": "mia.moore@example.com",
+    "FirstName": "Mia",
+    "LastName": "Moore",
+    "Role": "User",
+    "Password": "MiaM!2023",
+    "DateOfBirth": "1994-08-25",
+    "Country": "USA"
+  }
+]
